@@ -35,8 +35,11 @@ h2 {
   align-items: center;
   cursor: pointer;
 }
-.content {
+.answer-container {
   color: rgb(247, 247, 247);
-  height: auto;
-  padding: 25px;
+  padding: 10px;
+  font-size: 16px;
+  line-height: 1.5;
+  max-width: 400px;
+  margin: 0 auto;
 }
