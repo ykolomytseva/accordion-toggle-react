@@ -1,3 +1,8 @@
+#root {
+  background-color: #f4fcfc;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
 .App {
   text-align: center;
 }
